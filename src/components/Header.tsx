@@ -9,7 +9,7 @@ export const HeaderContainer = styled.View`
   elevation: 4;
   shadow-color: #000;
   shadow-opacity: 0.3;
-  shadow-radius: 4px;
+  shadow-radius: 6px;
   shadow-offset: 0px 2px;
 `;
 
